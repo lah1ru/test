@@ -2,5 +2,6 @@ streamlit
 joblib
 sklearn
 pyrebase
-
+st_lottie
+requests
 
