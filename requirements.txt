@@ -1,7 +1,0 @@
-streamlit
-joblib
-sklearn
-pyrebase
-streamlit_lottie
-requests
-
