@@ -4,4 +4,4 @@ sklearn
 pyrebase
 streamlit_lottie
 requests
-base64
+pybase64
